@@ -1,18 +1,22 @@
 quantile
 ========
 
-quantile normalization script in Perl
+quantile normalization script in Perl.
 
-Usage:
+This script is used to quantile normalization for a tabular file, typically for the macroarray data.
 
-quantile [options] input [output]
+VERSION:  1.0
 
-  -file, -f
-  
-    Specify the input tabular file, which each row must contain the same number of columns.
-    The first column is treated as unique ID for each row (except the first row, since it maybe
-    the header line).
-    
-  -nohead, -n
-  
-    If set, the first line will not be treated as sample names line.
+AUTHOR:
+
+Zhijun Han
+
+BUG REPORT:
+
+If any bug encounted when using it, please report to B<hangeneral@126.com>.
+
+ADDRESS:
+
+320 Yueyang Rd, Shanghai, China. Code: 200031.
+
+DATE:   Jan 17, 2012
