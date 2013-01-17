@@ -9,6 +9,10 @@ VERSION:
 
 quantile version 1.0
 
+LICENSE:
+
+If you use it in any format, please keep this README information in your work.
+
 AUTHOR:
 
 Zhijun Han
